@@ -1,0 +1,15 @@
+ANGULAR
+
+npm install -g @angular/cli
+ng new my-dream-app
+cd my-dream-app
+ng serve
+
+
+DJANGO
+
+django-admin startproject myp
+py manage.py migrate
+py manage.py createsuperuser
+py manage.py runserver
+py manage.py startapp app
